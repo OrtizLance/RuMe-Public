@@ -1,0 +1,17 @@
+*
+
+!/.gitignore
+
+!lib/
+
+!lib/seeker_module/
+!lib/seeker_module/**
+
+!lib/owner_module/
+!lib/owner_module/**
+
+!lib/main.dart
+!lib/login.dart
+
+!functions/
+!functions/index.js
